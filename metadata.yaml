@@ -1,11 +1,16 @@
 _repo: The-Country-School-An-Entertainment-in-Two-Scenes_57893
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Orne, Martha Russell
     gutenberg_agent_id: '49674'
     url: http://www.gutenberg.org/2009/agents/49674
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57893#The-Country-School-An-Entertainment-in-Two-Scenes
 gutenberg_issued: '2018-09-13'
 gutenberg_type: Text
 identifiers:
